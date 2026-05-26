@@ -1,0 +1,17 @@
+# Logs
+*.log
+logs/
+
+# Local config — never commit credentials
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
